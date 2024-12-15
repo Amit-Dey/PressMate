@@ -1,10 +1,14 @@
 # PressMate – Centralized News Platform for All
+A dynamic news portal allowing users to read, comment, and engage with articles while enabling admins to manage news categories, posts, and user comments.
 
+![image](https://github.com/user-attachments/assets/e92f6cf4-37c1-42cf-ad3a-bda20770fde9)
 > We want to create a website with multiple news portals like games,
 entertainment, politics, international news, etc. Not only holding news, users can see it in
 detail and watch video news. They can comment like and share the post. We will try
 to count the ratings and user sentiment about the news. The more we will go through this
 journey, we will try our best to ensure the best quality on the website.
+
+
 
 ## Application Features and Description:
 ### The News Portal Website will have the following features:
@@ -23,6 +27,7 @@ platforms to allow users to share articles with their friends and followers.
 
 We will focus on the security topmost. And we will try to ensure the best move for the
 admin and author to make the best connectivity. Some features will be...
+![image](https://github.com/user-attachments/assets/86068121-b217-43ff-9330-ba30e7ae09e9)
 
 ## Tools and Resources:
 ### The News Portal Website will be developed using the following tools and resources:
