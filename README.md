@@ -1,8 +1,9 @@
-# News-Portal-Website
-> We want to create a website that holds multiple news portals like games,
-entertainment, politics, international news etc. Not only holding news, users can see it in
-detail and watch video news also. They can comment like and share the post. We will try
-to count the rating and user sentiment about the news. The more we will go through this
+# PressMate – Centralized News Platform for All
+
+> We want to create a website with multiple news portals like games,
+entertainment, politics, international news, etc. Not only holding news, users can see it in
+detail and watch video news. They can comment like and share the post. We will try
+to count the ratings and user sentiment about the news. The more we will go through this
 journey, we will try our best to ensure the best quality on the website.
 
 ## Application Features and Description:
